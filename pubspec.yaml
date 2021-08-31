@@ -74,7 +74,7 @@ flutter:
   fonts:
     - family: Inconsolata
       fonts:
-        - asset: assets/fonts/Inconsolate-Regular.ttf
+        - asset: assets/fonts/Inconsolata-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
